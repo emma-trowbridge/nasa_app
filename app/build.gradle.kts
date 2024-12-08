@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.bignerdranch.android.chapter_twenty"
+    namespace = "com.bignerdranch.android.nasa_app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.bignerdranch.android.chapter_twenty"
+        applicationId = "com.bignerdranch.android.nasa_app"
         minSdk = 33
         targetSdk = 34
         versionCode = 1
@@ -66,4 +66,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
 }

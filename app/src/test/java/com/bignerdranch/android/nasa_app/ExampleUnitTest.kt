@@ -1,4 +1,4 @@
-package com.bignerdranch.android.chapter_twenty
+package com.bignerdranch.android.nasa_app
 
 import org.junit.Test
 

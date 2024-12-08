@@ -1,6 +1,5 @@
-package com.bignerdranch.android.chapter_twenty.api
+package com.bignerdranch.android.nasa_app.api
 
-import com.bignerdranch.android.chapter_twenty.PhotoGalleryFragment
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
 

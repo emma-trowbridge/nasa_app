@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "chapter_twenty"
+rootProject.name = "nasa_app"
 include(":app")
